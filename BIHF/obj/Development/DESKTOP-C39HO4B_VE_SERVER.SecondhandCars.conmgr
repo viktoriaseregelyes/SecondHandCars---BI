@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-C39HO4B_VE_SERVER.SecondhandCars"
+  DTS:DTSID="{BEDB8CA7-F22A-444C-B91B-FC59AD842AF0}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-C39HO4B\VE_SERVER;Initial Catalog=SecondhandCars;Integrated Security=True;TrustServerCertificate=True;Application Name=SSIS-BIHF-{BEDB8CA7-F22A-444C-B91B-FC59AD842AF0}DESKTOP-C39HO4B\VE_SERVER.SecondhandCars;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
